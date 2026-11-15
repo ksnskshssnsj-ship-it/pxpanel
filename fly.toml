@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for pxpanel on 2026-11-15T13:48:26Z
+# fly.toml app configuration file generated for pxpanel-sl2bxg on 2026-11-15T13:52:49Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'pxpanel'
-primary_region = 'iad'
+app = 'pxpanel-sl2bxg'
+primary_region = 'fra'
 
 [build]
 [http_service]
